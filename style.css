@@ -1,0 +1,118 @@
+container{
+    height:1000px;
+    width: 100%;
+}
+
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.bg-menu{
+    /*background-image: url("assets/menu/img/beans.jpg");
+    background-size: cover;
+    background-position: bottom;*/
+    height: 200px;
+    letter-spacing: 10px;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+#title{
+    text-align: center;
+    margin-top: 10%;
+    color:black;
+    font-family: Bellefair;
+    border-bottom: .5px black solid;
+    border-bottom-width: thick;
+    letter-spacing: 4px;
+    
+}
+
+
+
+/*menu items*/
+
+.latte{
+     background-image: url("assets/coffee/latte/latte.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.flatwhite{
+     background-image: url("assets/coffee/flatwhite/flatwhite.jpg");
+    background-size: cover;
+    height: 200px;
+       
+
+}
+
+.americano{
+     background-image: url("assets/coffee/americano/americano.jpg");
+    background-size: cover;
+    height: 200px;
+       
+
+}
+
+.mocha{
+     background-image: url("assets/coffee/mocha/mocha.jpg");
+    background-size: cover;
+    height: 200px;
+       
+
+}
+
+.icedlatte{
+     background-image: url("assets/coffee/icedlatte/icedlatte.jpg");
+    background-size: cover;
+    height: 200px;
+      
+
+    
+}
+
+.espresso{
+     background-image: url("assets/coffee/espresso/espresso.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.cappuccino{
+    background-image: url("assets/coffee/cappuccino/cappuccino.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.cortado{
+    background-image: url("assets/coffee/cortado/cortado.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.icedamericano{
+    background-image: url("assets/coffee/icedamericano/icedamericano.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.macchiato{
+    background-image: url("assets/coffee/macchiato/macchiato.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.piccolo{
+    background-image: url("assets/coffee/piccolo/piccolo.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+    
+    
