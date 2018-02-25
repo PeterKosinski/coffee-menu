@@ -121,6 +121,48 @@ container{
     
 }
 
+.turkish{
+    background-image: url("assets/coffee/turkish/turkish.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.bonbon{
+    background-image: url("assets/coffee/bonbon/bonbon.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.coldbrew{
+    background-image: url("assets/coffee/coldbrew/coldbrew.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.matcha{
+    background-image: url("assets/coffee/matcha/matcha.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.vienna{
+    background-image: url("assets/coffee/vienna/vienna.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.vietnam{
+    background-image: url("assets/coffee/vietnam/vietnam.jpg");
+    background-size: cover;
+    height: 200px;
+    
+}
+
 /*cup*/
 
 .cupoutline{
@@ -163,6 +205,13 @@ container{
     -ms-transform: skew(30deg, 0deg);
     -webkit-transform: skew(30deg, 0deg);
     transform: skew(25deg, 0deg);
+}
+
+/*how to step by step*/
+
+.stepbystep{
+    list-style-type: none;
+    line-height: 2.5;
 }
 
 
